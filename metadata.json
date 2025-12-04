@@ -1,0 +1,9 @@
+{
+  "name": "Guardian - Family Safety Hub",
+  "description": "A comprehensive family safety dashboard featuring real-time location simulation, an AI-powered safety advisor for emergencies, and instant panic alerts.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
